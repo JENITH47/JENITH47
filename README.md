@@ -19,6 +19,3 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Jenith_Golyan-blue)](https://linkedin.com/in/jenith-golyan)
 [![Gmail](https://img.shields.io/badge/Gmail-golyanjenith47@gmail.com-red)](mailto:golyanjenith47@gmail.com)
 
-## 📊 GitHub Stats
-
-![Jenith's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JENITH47&show_icons=true&theme=dark&hide_border=true)
